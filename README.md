@@ -5,6 +5,8 @@ RetailQuery Assistant is an intelligent natural-language interface that allows u
 Built using **Streamlit**, **LangChain**, and **Google Gemini**, this app translates everyday questions into accurate database insights and presents them in clean, easy-to-understand responses.
 
 ---
+![image_alt](https://github.com/devinandana03/RetailQuery-Assistant/blob/master/ss_chatbot.png?raw=true)
+---
 
 ## Features
 - Ask questions in **plain English** — no SQL required  
